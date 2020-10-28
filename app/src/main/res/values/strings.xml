@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simon_Dice</string>
+    <string name="david_dice">David dice</string>
+    <string name="reset">RESET</string>
+    <string name="start">START</string>
+</resources>
